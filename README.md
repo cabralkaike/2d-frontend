@@ -1,1 +1,1 @@
-# 2d-frontend
+# 2ds-front-end
